@@ -1,6 +1,7 @@
 title: 128 Construction Consultants
 email: scott@128constructionconsulstants.com
-baseurl: /sdecurti.github.io
+url: ""
+baseurl: "/sdecurti.github.io"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -9,7 +10,9 @@ sass:
   load_paths:
     - _sass
     - node_modules
+
 include: ["node_modules/tailwindcss"]
+
 exclude:
 - Gemfile
 - Gemfile.lock
