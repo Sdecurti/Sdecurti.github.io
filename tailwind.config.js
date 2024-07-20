@@ -6,7 +6,7 @@ module.exports = {
         'sRed': '#ef333f',
         'sYellow': '#fdf950',
         'sGray': '#5c6473',
-        'sblue': '#497891',
+        'sBlue': '#497891',
       }
     }
   }
