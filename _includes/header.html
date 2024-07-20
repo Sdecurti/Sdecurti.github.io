@@ -48,17 +48,17 @@
             </svg></div>
         </div>
         <blockquote class="mt-2">
-          <p class="font-display text-xl font-medium text-slate-900">“When you want something done right, have 128 Consultants do it!”</p>
+          <p class="font-display text-xl font-medium text-slate-900">{{ page.quote }}</p>
         </blockquote>
         <figcaption class="mt-2 text-sm text-sGray "><strong
-            class="font-semibold text-sBlue before:content-['—_']">John Doe</strong>, Founder at Retail Park
+            class="font-semibold text-sBlue before:content-['—_']">{{ page.quote_author }}</strong>{{ page.quote_author_title }}
         </figcaption>
       </figure>
     </div>
     <div class="bg-white pt-16 lg:col-span-7 lg:bg-transparent lg:pl-16 lg:pt-0 xl:pl-20">
       <div class="mx-auto px-4 sm:px-6 md:max-w-2xl md:px-4 lg:px-0">
-        <h1 class="font-display text-5xl font-extrabold text-slate-900 sm:text-6xl">Get lost in the world of construction</h1>
-        <p class="mt-4 text-3xl text-sGray">Whatever it is you want, I can build it.</p>
+        <h1 class="font-display text-5xl font-extrabold text-slate-900 sm:text-6xl">{{ page.teaser_title }}</h1>
+        <p class="mt-4 text-3xl text-sGray">{{ page.teaser_text }}</p>
         <div class="mt-8 flex gap-4"><a
             class="inline-flex justify-center rounded-md py-1 px-4 text-base font-semibold tracking-tight shadow-sm focus:outline-none bg-sBlue text-white hover:bg-sBlue focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sBlue active:bg-sBlue active:text-white/80 disabled:opacity-30 disabled:hover:bg-sBlue"
             color="blue" variant="solid" href="#services">Services</a><a
