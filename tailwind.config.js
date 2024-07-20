@@ -1,6 +1,6 @@
 module.exports = {
+  content: ["./**/*.{html,js}"],
   theme: {
-    content: ["./**/*.{html,js}"],
     extend: {
       colors: {
         'sRed': '#ef333f',
