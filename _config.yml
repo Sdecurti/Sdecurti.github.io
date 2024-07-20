@@ -2,9 +2,10 @@ title: 128 Construction Consultants Put Something New
 email: scott@128constructionconsulstants.com
 url: ""
 baseurl: "/sdecurti.github.io"
+
 plugins:
-  - jekyll-sitemap
   - jekyll-postcss
+
 sass:
   load_paths:
     - _sass
