@@ -3,7 +3,6 @@ email: scott@128constructionconsulstants.com
 url: ""
 baseurl: "/sdecurti.github.io"
 plugins:
-  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-postcss
 sass:
@@ -12,16 +11,3 @@ sass:
     - node_modules
 
 include: ["node_modules/tailwindcss"]
-
-exclude:
-- Gemfile
-- Gemfile.lock
-- node_modules
-- yarn.lock
-- package-lock.json
-- README.md
-- postcss.config.js
-- purgecss.config.js
-- netlify.toml
-- bin
-- .gitignore
