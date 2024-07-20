@@ -5,8 +5,11 @@
     <link rel="stylesheet" href="/assets/css/main.css">
   </head>
   <body>
-    <section>
-      {{ content }}
-    </section>
+    <div class="container lg:max-w-2xl mx-auto px-4">
+      <section>
+        {{ content }}
+      </section>
+      {% include bio.html %}
+    </div>
   </body>
 </html>
