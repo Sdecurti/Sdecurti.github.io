@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "128 Consultants"
+title: "128 Construction Consultants"
 quote: “When you want something done right, have 128 Consultants do it!”
 quote_author: "Ryann Hall"
 quote_author_title: ", Vice President at Bohm Law Group"
