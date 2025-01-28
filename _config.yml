@@ -6,6 +6,7 @@ baseurl: ""
 
 plugins:
   - jekyll-postcss
+  - jekyll-seo-tag
 
 sass:
   load_paths:

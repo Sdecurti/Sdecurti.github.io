@@ -73,6 +73,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  google-protobuf
   jekyll
   jekyll-postcss
   jekyll-seo-tag
