@@ -1,8 +1,8 @@
 title: 128 Construction Consultants
-email: scott@128constructionconsulstants.com
+email: scott@128constructionconsultants.com
 phone: 555-555-5555
-url: ""
-baseurl: ""
+url: "https://128constructionconsultants.com"
+baseurl: "sdecurti.github.io"
 
 plugins:
   - jekyll-postcss
