@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "128 Construction Consultants"
-quote: “When you want something done right, have 128 Construction Consultants do it!”
+quote: “put something else"
 quote_author: "Ryann Hall"
 quote_author_title: ", Vice President at Bohm Law Group"
 teaser_title: "Get lost in the world of construction"
